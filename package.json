@@ -1,9 +1,9 @@
 {
-  "name": "multi-step-form",
+  "name": "Multistep-Form-with-Router",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Probe-konto.github.io/Multistep-Form",
+  "homepage": "https://Mustafa-Alie.github.io/Multistep-Form-with-Router",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
