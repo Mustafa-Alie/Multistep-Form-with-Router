@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  // base: "/Multistep-Form/",
+  base: "/Multistep-Form-with-Router/",
   plugins: [react(), tailwindcss()],
 });
