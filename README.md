@@ -1,6 +1,6 @@
 # 🧾 Multi-Step Form
 
-A responsive, modern multi-step form built with React 19, TypeScript, Tailwind CSS 4, and React Router v7.6.2 (Data Mode)
+A responsive multi-step form built with React 19, TypeScript, Tailwind CSS 4, and React Router v7.6.2 (Data Mode)
 
 ## 🛠 Tech Stack
 
