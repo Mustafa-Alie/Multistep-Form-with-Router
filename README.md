@@ -5,7 +5,7 @@ A responsive multi-step form built with React, TypeScript, Tailwind CSS, and Rea
 ------------
 
 ## Live Site:
-[vercel](https://multistep-form-with-router.vercel.app/))
+[vercel](https://multistep-form-with-router.vercel.app/)
 
 ---
 
