@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mustafa-Alie.github.io/Multistep-Form-with-Router",
+  "homepage": "https://github.com/Mustafa-Alie/Multistep-Form-with-Router",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
