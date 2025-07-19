@@ -2,6 +2,18 @@
 
 A responsive multi-step form built with React, TypeScript, Tailwind CSS, and React Router v7.6 (Data Mode)
 
+------------
+
+## Live Site:
+[vercel](https://multistep-form-with-router.vercel.app/))
+
+---
+
+# 📸 Preview
+
+![App Preview](./preview.png)
+
+
 ## 🛠 Tech Stack
 
 - **Frontend Framework:** [React 19](https://react.dev)
